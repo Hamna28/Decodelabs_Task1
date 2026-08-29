@@ -25,8 +25,11 @@ A lightweight, pixel-perfect web application designed according to strict bluepr
 
 mywebsite/
 ├── images/          # Icons, vectors, and background assets
-├── index.html       # Main landing page markup
-├── style.css        # Responsive stylesheets and layout utilities
+|
+├── index.html/       # Main landing page markup
+|
+├── style.css/        # Responsive stylesheets and layout utilities
+|
 └── README.md        # Project documentation
 
 ---
