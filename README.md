@@ -23,22 +23,22 @@ A lightweight, pixel-perfect web application designed according to strict bluepr
 
 ## 📁 Directory Structure
 
+```text
 mywebsite/
-├── images/
-|
-├── index.html/
-|
-├── style.css/
-|
-└── README.md 
+├── images/          # Icons, vectors, and background assets
+├── index.html       # Main landing page markup
+├── style.css        # Responsive stylesheets and layout utilities
+└── README.md        # Project documentation
+```
 
 ---
 
 ## 🚀 How to Run Locally
 * **Clone the repository:**
 
-**Bash**
+```Bash
 git clone [https://github.com/your-username/mywebsite.git](https://github.com/your-username/mywebsite.git)
+```
 * Open index.html directly in any web browser.
 
 ---
