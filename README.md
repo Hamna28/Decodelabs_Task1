@@ -24,13 +24,13 @@ A lightweight, pixel-perfect web application designed according to strict bluepr
 ## 📁 Directory Structure
 
 mywebsite/
-├── images          # Icons, vectors, and background assets/
+├── images/
 |
-├── index.html       # Main landing page markup/
+├── index.html/
 |
-├── style.css        # Responsive stylesheets and layout utilities/
+├── style.css/
 |
-└── README.md        # Project documentation
+└── README.md 
 
 ---
 
